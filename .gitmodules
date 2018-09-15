@@ -1,0 +1,3 @@
+[submodule "LocalRepository"]
+	path = LocalRepository
+	url = https://gitee.com/binzi56/CocoapodsRemoteRepository
