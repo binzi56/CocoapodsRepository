@@ -1,0 +1,14 @@
+# platform :ios, '9.0'
+
+source 'https://gitee.com/binzi56/ZBGiteeSpec.git'
+
+target 'CocoapodsRepository' do
+ 
+#本地私有库
+#  pod 'LocalRepository', :path => '../LocalRepository'
+
+#远程私有库
+pod 'LocalRepository', '~> 0.1.0'
+
+end
+

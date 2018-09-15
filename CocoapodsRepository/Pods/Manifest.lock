@@ -1,0 +1,16 @@
+PODS:
+  - LocalRepository (0.1.0)
+
+DEPENDENCIES:
+  - LocalRepository (~> 0.1.0)
+
+SPEC REPOS:
+  https://gitee.com/binzi56/ZBGiteeSpec.git:
+    - LocalRepository
+
+SPEC CHECKSUMS:
+  LocalRepository: a9980edd5c323018b2f91971f279f163161331f2
+
+PODFILE CHECKSUM: e96f25abcf4a4e559a039956df62af0ae36f83e3
+
+COCOAPODS: 1.5.3
