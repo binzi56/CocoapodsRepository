@@ -1,0 +1,22 @@
+{
+  "name": "LocalRepository",
+  "version": "0.1.0",
+  "summary": "A short description of LocalRepository.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/binzi56/LocalRepository",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "binzi56": "1533607721@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/binzi56/LocalRepository.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LocalRepository/Classes/**/*"
+}

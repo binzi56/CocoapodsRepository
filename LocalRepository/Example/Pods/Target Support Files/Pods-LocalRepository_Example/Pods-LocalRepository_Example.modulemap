@@ -1,0 +1,6 @@
+framework module Pods_LocalRepository_Example {
+  umbrella header "Pods-LocalRepository_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

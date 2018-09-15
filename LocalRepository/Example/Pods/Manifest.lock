@@ -1,0 +1,16 @@
+PODS:
+  - LocalRepository (0.1.0)
+
+DEPENDENCIES:
+  - LocalRepository (from `../`)
+
+EXTERNAL SOURCES:
+  LocalRepository:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LocalRepository: b1d1e25dce28f295afb9114ed5fb7e5b204fbc3c
+
+PODFILE CHECKSUM: bb6f9bb6a58f6f16e8e5824cfabe427d73a99acc
+
+COCOAPODS: 1.5.3

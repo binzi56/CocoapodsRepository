@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LocalRepository_Example' do
+  pod 'LocalRepository', :path => '../'
+
+  target 'LocalRepository_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
