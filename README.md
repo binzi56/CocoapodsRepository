@@ -1,5 +1,5 @@
 # CocoapodsRepository
-cocoapods的本地和远程仓库实践
+cocoapods的组件化实践(本地+远程仓库)
 
 其中LocalRepository为本地仓库;
 
